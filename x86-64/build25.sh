@@ -42,6 +42,10 @@ PACKAGES="$PACKAGES xray-core hysteria luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+# 自定义
+PACKAGES="$PACKAGES luci-app-netspeedtest"
+PACKAGES="$PACKAGES luci-app-turboacc"
+PACKAGES="$PACKAGES luci-app-bandix"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
