@@ -61,8 +61,8 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # 自定义
-PACKAGES="$PACKAGES luci-app-netspeedtest"
-PACKAGES="$PACKAGES luci-app-turboacc"
+#PACKAGES="$PACKAGES luci-app-netspeedtest"
+#PACKAGES="$PACKAGES luci-app-turboacc"
 PACKAGES="$PACKAGES luci-app-bandix"
 
 # 文件管理器
